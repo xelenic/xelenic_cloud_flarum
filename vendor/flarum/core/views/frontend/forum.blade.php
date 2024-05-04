@@ -22,7 +22,7 @@
                     <a href="https://xelenic.com">Home</a>
                 </div>
                 <div style="float: left;vertical-align: top;font-size: 15px;font-weight: normal;margin: 0 15px 0 0;line-height: 34px;margin-left: 43px;">
-                    <a href="https://xelenic.com">Products</a>
+                    <a href="https://xelenic.com/products-list">Products</a>
                 </div>
                 <div style="float: left;vertical-align: top;font-size: 15px;font-weight: normal;margin: 0 15px 0 0;line-height: 34px;margin-left: 43px;">
                     <a href="https://xelenic.com">Support Center</a>
